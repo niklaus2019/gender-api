@@ -1,5 +1,4 @@
-# Project Name
-> ### Gender API app
+# Gender API app
 > ### uses External [_REST API_](https://genderize.io/)  in project. 
 
 ## Table of Contents
