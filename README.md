@@ -9,9 +9,9 @@
 
 
 ## Project scope
-- The scope of project is to build own database that helps detect gender by name.
+- The scope of project is to build proxy for gender detection mechanism
 - Also adding docker for run application in isolation environment (container)
-- Additional business logic that involves name and its detected gender is not the scope of this project
+- The logic of detection the gender by name relates to the external system, this algorithm was not implemented directly in the current project
 
 ## General Information
 - Entering the name, external REST API returns as output the gender of name
